@@ -1,1 +1,1 @@
-Welcome2
+Welome to folder 2 in git WS
