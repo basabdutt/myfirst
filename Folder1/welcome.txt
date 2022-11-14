@@ -1,1 +1,1 @@
-Welome
+Welome to folder 1 in git WS
